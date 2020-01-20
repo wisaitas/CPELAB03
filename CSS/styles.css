@@ -1,0 +1,34 @@
+body {
+    background-image: url(https://www.tokkoro.com/picsup/2632224-stars-4k-full-hd-wallpaper.jpg);
+    margin: 0px;
+}
+
+p {
+    color: white;
+    font-size: 20px;
+}
+
+form {
+    font-size: 20px;
+    color: white;
+}
+
+#correctanswer {
+    text-align: center;
+    margin-left: 40%;
+    width: 20%;
+    background-color: red;
+}
+
+#end {
+    display: none;
+    text-align: center;
+}
+
+#send {
+    display: inline-block;
+}
+
+#incorrectanswer {
+    display: none;
+}
